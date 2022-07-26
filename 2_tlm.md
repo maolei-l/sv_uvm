@@ -17,3 +17,4 @@ transport操作：类似于request- response操作
 
 ## imp类型  
 
+整个通信的落脚点均为imp。对于多个组件之间的关联，则采取fifo的形式。  
